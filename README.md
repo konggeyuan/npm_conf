@@ -17,3 +17,5 @@ docker pull 镜像
 {
   "registry-mirrors": ["https://x7e3y83k.mirror.aliyuncs.com"]
 }
+
+## mysql配置
