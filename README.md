@@ -21,6 +21,7 @@ docker pull 镜像
 
 ##### 配置目录预设环境
 
+<code>
 /server
 ├── LICENSE
 ├── README.md
@@ -38,7 +39,7 @@ docker pull 镜像
     ├── conf
     │   ├── php.ini
     │   └── www.conf
-
+</code>
 
 ##### mysql配置
 
