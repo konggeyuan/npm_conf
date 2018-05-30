@@ -1,4 +1,5 @@
-# npm_conf
+# nginx+mysql+php配置
+
 ###nginx+mysql+php配置文件
 
 
